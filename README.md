@@ -6,7 +6,7 @@ In this project, by reading the sehirler.txt file, a Linked list of the cities o
 
 These questions and transactions are limited to 3 sections.
 
-if u choose 1. sections u are in the Search process section, and u can do 5 different search in this section
+if u choose 1. sections u are in the Search process section, and u can do 5 different search in this section\n
 if u choose 1 u are in [1.1] Section : City search by name
 if u choose 2 u are in [1.2] Section : City search from plate
 if u choose 3 u are in [1.3] Section : Search for cities in the same region
